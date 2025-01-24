@@ -9,7 +9,8 @@
 		Footer,
 		FooterCopyright,
 		FooterBrand,
-		FooterIcon
+		FooterIcon,
+		Popover
 	} from 'flowbite-svelte';
 	import { LinkedinSolid, GithubSolid, BuildingSolid } from 'flowbite-svelte-icons';
 
@@ -25,10 +26,14 @@
 	</NavBrand>
 	<NavHamburger />
 	<NavUl>
-		<NavLi href="/">Home</NavLi>
-		<NavLi href="/projects">Projects</NavLi>
-		<NavLi href="/about">About</NavLi>
-		<NavLi href="/contact">Contact</NavLi>
+		<NavLi href="#" id="li1">Home</NavLi>
+		<Popover class="w-64 text-sm font-light " title="Ooops" triggeredBy="#li1">This part is still in development, I'm workin' on it!</Popover>
+		<NavLi href="#" id="li2">Projects</NavLi>
+		<Popover class="w-64 text-sm font-light " title="Ooops" triggeredBy="#li2">This part is still in development, I'm workin' on it!</Popover>
+		<NavLi href="#" id="li3">About</NavLi>
+		<Popover class="w-64 text-sm font-light " title="Ooops" triggeredBy="#li3">This part is still in development, I'm workin' on it!</Popover>
+		<NavLi href="#" id="li4">Contact</NavLi>
+		<Popover class="w-64 text-sm font-light " title="Ooops" triggeredBy="#li4">This part is still in development, I'm workin' on it!</Popover>
 	</NavUl>
 </Navbar>
 
