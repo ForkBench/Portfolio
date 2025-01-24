@@ -27,13 +27,21 @@
 	<NavHamburger />
 	<NavUl>
 		<NavLi href="#" id="li1">Home</NavLi>
-		<Popover class="w-64 text-sm font-light " title="Ooops" triggeredBy="#li1">This part is still in development, I'm workin' on it!</Popover>
+		<Popover class="w-64 text-sm font-light " title="Ooops" triggeredBy="#li1"
+			>This part is still in development, I'm workin' on it!</Popover
+		>
 		<NavLi href="#" id="li2">Projects</NavLi>
-		<Popover class="w-64 text-sm font-light " title="Ooops" triggeredBy="#li2">This part is still in development, I'm workin' on it!</Popover>
+		<Popover class="w-64 text-sm font-light " title="Ooops" triggeredBy="#li2"
+			>This part is still in development, I'm workin' on it!</Popover
+		>
 		<NavLi href="#" id="li3">About</NavLi>
-		<Popover class="w-64 text-sm font-light " title="Ooops" triggeredBy="#li3">This part is still in development, I'm workin' on it!</Popover>
+		<Popover class="w-64 text-sm font-light " title="Ooops" triggeredBy="#li3"
+			>This part is still in development, I'm workin' on it!</Popover
+		>
 		<NavLi href="#" id="li4">Contact</NavLi>
-		<Popover class="w-64 text-sm font-light " title="Ooops" triggeredBy="#li4">This part is still in development, I'm workin' on it!</Popover>
+		<Popover class="w-64 text-sm font-light " title="Ooops" triggeredBy="#li4"
+			>This part is still in development, I'm workin' on it!</Popover
+		>
 	</NavUl>
 </Navbar>
 
