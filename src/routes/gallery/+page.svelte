@@ -19,8 +19,8 @@
 </script>
 
 <section
-	id="top-section"
-	class="mb-32 mt-32 flex h-screen flex-col items-center justify-center space-y-4 text-center"
+	id="gallery"
+	class="flex flex-col items-center justify-center space-y-4 text-center min-h-screen h-auto"
 >
 	<Heading tag="h1" class="m-5">Here is a quick look at my work.</Heading>
 
