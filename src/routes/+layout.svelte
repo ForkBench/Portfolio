@@ -55,8 +55,8 @@
 			<FooterBrand
 				href="https://flowbite.com"
 				src="/Inseki.png"
-				alt="Flowbite Logo"
-				name="Flowbite"
+				alt="Forkbench Logo"
+				name="Forkbench"
 			/>
 		</div>
 	</div>
