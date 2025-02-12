@@ -20,7 +20,7 @@
 
 <section
 	id="gallery"
-	class="flex flex-col items-center justify-center space-y-4 text-center min-h-screen h-auto"
+	class="flex h-auto min-h-screen flex-col items-center justify-center space-y-4 text-center"
 >
 	<Heading tag="h1" class="m-5">Here is a quick look at my work.</Heading>
 
