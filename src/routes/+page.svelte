@@ -146,7 +146,7 @@
 				I am open to new opportunities and collaborations. Feel free to reach out to me if you have
 				any questions or would like to connect.
 			</span>
-			<div class="mt-4 flex space-x-3 lg:mt-6 rtl:space-x-reverse">
+			<div class="mt-4 flex space-x-3 lg:mt-6 rtl:space-x-reverse" id="contact">
 				<Button href="/public/public_key.asc">
 					<LockSolid class="me-1.5 h-5 w-5" />
 					Get my PGP key
